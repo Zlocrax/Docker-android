@@ -1,6 +1,8 @@
 hello this is my way of getting a docker like env on mobile to run python/node.js bots for adavanced devs only
 
-you need to get root access in a terminal like application (termux) ubunutu or my kali installer is probaly to best and easiest ways to do so.
+for both rooted and rootless devices
+
+you need to get root access in a terminal like application (termux) ubunutu or my kali installer is probaly the best and easiest ways to do so.
 
 after you get root access create a dir called bots so you can keep an eye on them 
 
