@@ -24,7 +24,7 @@ apt install sudo
 
 With thanks to https://github.com/hctilg for that part 
 
-fyi this way also works with nethunter installer as that also gives you root access
+fyi this way also works with my nethunter installer as that also gives you root access
 
 Now onto my steps(copy and paste 1by1):
 
