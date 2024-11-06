@@ -36,7 +36,7 @@ Once that is complete you must also compile python.
 
 Continue following my steps(copy and paste 1by1):
 
-wget https://www.python.org/ftp/python/3.12.2/Python-3.12.2.tgz
+wget https://<i></i>www.python.org/ftp/python/3.12.2/Python-3.12.2.tgz
 
 tar -xf Python-3.12.*.tgz
 
@@ -56,7 +56,7 @@ python3.12 --version
 
 now lets install and build pip(copy and paste):
 
-curl -sS https://bootstrap.pypa.io/get-pip.py | python3.12
+curl -sS https://<i></i>bootstrap.pypa.io/get-pip.py | python3.12
 
 Check pip version with, pip3.12 -V and use sudo pip3.12 install to install with pip
 
